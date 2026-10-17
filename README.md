@@ -1,2 +1,1 @@
-# Application: Hotel Reservation Platform
-
+Application: Online Hotel Booking System
