@@ -1,0 +1,5 @@
+Hotel Booking Application
+1. Search Hotels
+2. Book Rooms
+3. Cancel Bookings
+4. View Booking Details
